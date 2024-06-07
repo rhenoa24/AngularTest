@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:4200",
-  "webRoot": "F:\\Data Defenders\\AngularTest\\SLN"
+  "webRoot": "F:\\Data Defenders\\AngularTest"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>
